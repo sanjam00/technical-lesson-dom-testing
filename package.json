@@ -1,0 +1,10 @@
+{
+  "name": "course-3-module-6-dom-testing-technical-lesson",
+  "version": "1.0.0",
+  "description": "Template technical lesson",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Louis Medina",
+  "license": "Included in Repo",
+  "devDependencies": {}
+}
